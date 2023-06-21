@@ -1,6 +1,4 @@
-### **<div align="center">Hi, I'm Wonhyun Kwon</div>**
-
----
+## <div align="center">Hi, I'm Wonhyun Kwon</div>
 
 <div align="center">I am a developer who <span style='color: #EF4444'>continuously, steadily, and progressively</span> evolves.</div>
 
@@ -14,9 +12,7 @@
 
 </br>
 
-### **🙋‍♂️ About me**
-
----
+## 🙋‍♂️ About me
 
 - Kyunghee Univ (Department of Electronics Engineering)
 - contact: [mywonhyuni@gmail.com](mywonhyuni@gmail.com)
@@ -28,40 +24,36 @@
 
 </br>
 
-### **⛏ Skills**
+## ⛏ Skills
 
----
-
-**📌 Programming languages**
+### 📌 Programming languages
 
 </br>
 
-**📌 Frontend**
+### 📌 Frontend
 
 </br>
 
-**📌 Backend**
+### 📌 Backend
 
 </br>
 
-**📌 DB & Cloud**
+### 📌 DB & Cloud
 
 </br>
 
-**📌 Etc.**
+### 📌 Etc.
 
 </br>
 
-### **📝 Work Exprience**
+## 📝 Work Exprience
 
----
-
-#### **2022.05 ~**
+### 2022.05 ~
 
 - Keypair
 
 </br>
 
-#### **2017.08 ~ 2019.09**
+### 2017.08 ~ 2019.09
 
 - LG Display Co., Ltd.
