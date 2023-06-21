@@ -18,9 +18,7 @@
 - contact: [mywonhyuni@gmail.com](mywonhyuni@gmail.com)
 - develog: [https://velog.io/@mywonhyuni](https://velog.io/@mywonhyuni)
 - resume: [resume](https://www.notion.so/whkwon/ac04d8280aa34e5b9ba74a85bb1eb70d?pvs=4)
-- portfolio
-  - [Professinal](https://www.notion.so/abd6c723df5e48b8a628314e85dfb86f?pvs=4)
-  - [Personal](https://www.notion.so/40fa228bc3b74ee28732345f21fc24c8?pvs=4)
+- portfolio: [professinal](https://www.notion.so/abd6c723df5e48b8a628314e85dfb86f?pvs=4), [personal](https://www.notion.so/40fa228bc3b74ee28732345f21fc24c8?pvs=4)
 
 </br>
 
