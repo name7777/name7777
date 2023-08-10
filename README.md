@@ -58,6 +58,8 @@
 - BloomingBit, a subsidiary of the Korea Economic Group
   - Frontend Engineer in charge of UX/UI for the BloomingBit app.
 
+</br>
+
 ### 2022.05 ~ 2023.07
 
 - Keypair
